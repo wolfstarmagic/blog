@@ -1,0 +1,4 @@
+baseURL = 'https://wolfstarmagic.com/'
+languageCode = 'en-us'
+theme = 'archie'
+title = 'Wolf Star Magic'

@@ -1,0 +1,19 @@
+---
+title: "Intro"
+date: 2022-02-14T14:58:43+09:00
+draft: false
+---
+
+# Who am I
+
+My name is Sam Johnson. I am a software engineer with over 10 years of experience. From large to small companies I have worked on all sides of application development.
+
+
+My mom got me involved at computers at a young age. She signed me up for a Pascal class when I was in the 6th grade. I was hooked, and I haven't looked back since.
+
+
+Currently I am learning japanese (recently passed the N3 exam) and am working at a small Japanese startup called Autify. I want this blog to be a place where I talk about programming, learning Japanese, and my life.
+
+
+Thanks for reading :D
+
